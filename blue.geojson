@@ -48,7 +48,22 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.452606, 27.964157, 0.0]
+        "coordinates": [-82.452605, 27.964156, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "@kwxnski",
+        "event_id": 1,
+        "time": 1507425650893,
+        "stream_url": "https://www.youtube.com/embed/Mbb_2HNC9Dc",
+        "stream_name": "Non-lethal force used by Tampa police at protesters near Curtis Hixon Park",
+        "quality": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.452604, 27.964155, 0.0]
       }
     }
   ]
