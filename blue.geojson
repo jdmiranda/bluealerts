@@ -12,8 +12,13 @@
       "id": "georgefloydmurder",
       "event_id": 1,
       "time": 1507425650893,
+<<<<<<< HEAD
       "stream_url":   "<iframe src=\"https://www.youtube.com/embed/IUav_lXMbnU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe><p><a href=\"https://www.youtube.com/embed/IUav_lXMbnU\"><h2> \"George Floyd\"</h2><\/p>",
       "stream_name":"George Floyd Murdered"
+=======
+      "stream_url": "https://www.youtube.com/embed/IUav_lXMbnU",
+      "stream_name":"George Floyd Murdered",
+>>>>>>> dd0e6957ca318db6a88305a3478891d29d682e51
       "quality": 1
     },
     "geometry": {
