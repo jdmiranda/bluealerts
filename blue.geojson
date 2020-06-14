@@ -80,6 +80,21 @@
         "type": "Point",
         "coordinates": [-84.386, 33.749, 0.0]
       }
+    },
+               {
+      "type": "Feature",
+      "properties": {
+        "id": "@kwxnski",
+        "event_id": 1,
+        "time": 1507425650893,
+        "stream_url": "https://www.youtube.com/embed/lWs_hMM1f60",
+        "stream_name": "Fires set at the Atlanta Wendy's where Rayshard Brooks was killed by an officer",
+        "quality": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.385, 33.748, 0.0]
+      }
     }
   ]
 }
