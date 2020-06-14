@@ -65,6 +65,21 @@
         "type": "Point",
         "coordinates": [-82.453, 27.965, 0.0]
       }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "id": "@kwxnski",
+        "event_id": 1,
+        "time": 1507425650893,
+        "stream_url": "https://www.youtube.com/embed/N93UXHGu4oo",
+        "stream_name": "Family of Rayshard Brooks, supporters speak after man shot in Atlanta by police | Live",
+        "quality": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.453, 27.965, 0.0]
+      }
     }
   ]
 }
